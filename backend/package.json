@@ -34,9 +34,9 @@
     "@mikro-orm/migrations": "6.4.3",
     "@mikro-orm/postgresql": "6.4.3",
     "awilix": "^8.0.1",
+    "ioredis": "^5.4.1",
     "pg": "^8.13.0",
-    "zod": "3.22.4",
-    "ioredis": "^5.3.2"
+    "zod": "3.22.4"
   },
   "devDependencies": {
     "@medusajs/test-utils": "2.8.4",
@@ -49,9 +49,11 @@
     "@types/react": "^18.3.2",
     "@types/react-dom": "^18.2.25",
     "jest": "^29.7.0",
+    "posthog-node": "^4.17.1",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "tailwindcss": "^3.4.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.3",
     "vite": "^5.2.11"
